@@ -1,0 +1,3 @@
+newmtl material_0
+map_Kd blub_diffuse.png
+disp blub_height.exr
