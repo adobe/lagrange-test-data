@@ -12,13 +12,13 @@ The table below lists the origin of models in this repository and their licenses
 |----------------------------------|--------------------------------------------------|--------------------------|
 | core/a_simple_text_file.txt      | Homemade                                         | [CC0 1.0 Universal][cc0] |
 | core/ball.obj                    | Homemade                                         | [CC0 1.0 Universal][cc0] |
+| core/blub_open_filled.obj        | Derived                                          | [CC0 1.0 Universal][cc0] |
+| core/blub_open.obj               | Derived                                          | [CC0 1.0 Universal][cc0] |
+| core/blub/blub_diffuse.png       | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/blub/blub_height.exr        | Derived                                          | [CC0 1.0 Universal][cc0] |
 | core/blub/blub.glb               | Derived                                          | [CC0 1.0 Universal][cc0] |
 | core/blub/blub.mtl               | Homemade                                         | [CC0 1.0 Universal][cc0] |
-| core/blub/blub.obj               | [Keenan's 3D Model Repository][keenan]           | Public Domain            |
-| core/blub/blub_diffuse.png       | [Keenan's 3D Model Repository][keenan]           | Public Domain            |
-| core/blub/blub_height.exr        | Derived                                          | [CC0 1.0 Universal][cc0] |
-| core/blub_open.obj               | Derived                                          | [CC0 1.0 Universal][cc0] |
-| core/blub_open_filled.obj        | Derived                                          | [CC0 1.0 Universal][cc0] |
+| core/blub/blub.obj               | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
 | core/bunny_simple.obj            | [The Stanford 3D Scanning Repository][standford] | ???                      |
 | core/cube_soup.obj               | Homemade                                         | [CC0 1.0 Universal][cc0] |
 | core/disk.obj                    | Homemade                                         | [CC0 1.0 Universal][cc0] |
@@ -49,6 +49,18 @@ The table below lists the origin of models in this repository and their licenses
 | core/squareZ.obj                 | Homemade                                         | [CC0 1.0 Universal][cc0] |
 | core/stanford-bunny.obj          | [The Stanford 3D Scanning Repository][standford] | ???                      |
 | core/table_top.obj               | Homemade                                         | [CC0 1.0 Universal][cc0] |
+| core/tilings/hexagon.obj         | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi1.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi2.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi3.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi4.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi5.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi6.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi7.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/semi8.obj           | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/square.obj          | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/tiling.cpp          | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
+| core/tilings/triangle.obj        | [Keenan's 3D Model Repository][keenan]           | [CC0 1.0 Universal][cc0] |
 | core/torus3_in.obj               | Homemade                                         | [CC0 1.0 Universal][cc0] |
 | core/torus3_out.obj              | Homemade                                         | [CC0 1.0 Universal][cc0] |
 <!-- generated-table-ends -->
