@@ -74,6 +74,9 @@ table below lists the origin of models in this repository and their licenses.
 | core/tilings/triangle.obj         | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0 Universal][cc0] |
 | core/torus3_in.obj                | Homemade                                           | [CC0 1.0 Universal][cc0] |
 | core/torus3_out.obj               | Homemade                                           | [CC0 1.0 Universal][cc0] |
+| subdivision/sphere.ply            | Homemade                                           | [CC0 1.0 Universal][cc0] |
+| subdivision/sphere_midpoint.ply   | Homemade                                           | [CC0 1.0 Universal][cc0] |
+| subdivision/sphere_sqrt.ply       | Homemade                                           | [CC0 1.0 Universal][cc0] |
 <!-- generated-table-ends -->
 
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
