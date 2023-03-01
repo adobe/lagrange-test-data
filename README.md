@@ -87,6 +87,7 @@ table below lists the origin of models in this repository and their licenses.
 | io/gltf_engine/2CylinderEngine.gltf                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/gltf_engine/2CylinderEngine0.bin                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/three_cubes_instances.gltf                            | Homemade                                           | [CC0 1.0][cc0]                          |
+| io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
