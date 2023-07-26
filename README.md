@@ -86,6 +86,7 @@ table below lists the origin of models in this repository and their licenses.
 | io/gltf_avocado/Avocado.gltf                             | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
 | io/gltf_engine/2CylinderEngine.gltf                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/gltf_engine/2CylinderEngine0.bin                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
+| io/MultiUVTest.glb                                       | [glTF-Sample-Models][gltf-multiuv]                 | [CC BY 4.0][gltf-multiuv]               |
 | io/three_cubes_instances.gltf                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
@@ -102,5 +103,6 @@ table below lists the origin of models in this repository and their licenses.
 [gltf-cube]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/AnimatedCube
 [gltf-cylinder]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/2CylinderEngine
 [gltf-avocado]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Avocado
+[gltf-multiuv]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/MultiUVTest
 
-[^gltf-license]: Many glTF models currently have unclear license information. A future update to the  glTF-Sample-Models repository will address that. Please see [KhronosGroup/glTF-Sample-Models#227](https://github.com/KhronosGroup/glTF-Sample-Models/issues/227) for more information.
+[^gltf-license]: Many glTF models currently have unclear license information. A future update to the glTF-Sample-Models repository will address that. Please see [KhronosGroup/glTF-Sample-Models#227](https://github.com/KhronosGroup/glTF-Sample-Models/issues/227) for more information.
