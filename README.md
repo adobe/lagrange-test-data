@@ -79,16 +79,20 @@ table below lists the origin of models in this repository and their licenses.
 | io/gltf_animated_cube/AnimatedCube_MetallicRoughness.png | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
 | io/gltf_animated_cube/AnimatedCube.bin                   | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
 | io/gltf_animated_cube/AnimatedCube.gltf                  | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
-| io/gltf_avocado/Avocado_baseColor.png                    | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
-| io/gltf_avocado/Avocado_normal.png                       | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
-| io/gltf_avocado/Avocado_roughnessMetallic.png            | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
-| io/gltf_avocado/Avocado.bin                              | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
-| io/gltf_avocado/Avocado.gltf                             | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/Avocado_baseColor.png                         | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/Avocado_normal.png                            | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/Avocado_roughnessMetallic.png                 | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/Avocado.bin                                   | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/Avocado.gltf                                  | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/avocado.obj                                   | Derived                                            | [CC0 1.0][cc0]                          |
+| io/avocado/avocado.mtl                                   | Derived                                            | [CC0 1.0][cc0]                          |
+| io/avocado/avocado.fbx                                   | Derived                                            | [CC0 1.0][cc0]                          |
 | io/gltf_engine/2CylinderEngine.gltf                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/gltf_engine/2CylinderEngine0.bin                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/MultiUVTest.glb                                       | [glTF-Sample-Models][gltf-multiuv]                 | [CC BY 4.0][gltf-multiuv]               |
 | io/three_cubes_instances.gltf                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
+| io/two_cameras.gltf                                      | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
