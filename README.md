@@ -75,6 +75,11 @@ table below lists the origin of models in this repository and their licenses.
 | core/tilings/triangle.obj                                | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
 | core/torus3_in.obj                                       | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/torus3_out.obj                                      | Homemade                                           | [CC0 1.0][cc0]                          |
+| image_io/blobs.png                                       | Homemade                                           | [CC0 1.0][cc0]                          |
+| image_io/checkerboard4.png                               | Homemade                                           | [CC0 1.0][cc0]                          |
+| image_io/example.exr                                     | Homemade                                           | [CC0 1.0][cc0]                          |
+| image_io/example.jpg                                     | Homemade                                           | [CC0 1.0][cc0]                          |
+| image_io/example.png                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/gltf_animated_cube/AnimatedCube_BaseColor.png         | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
 | io/gltf_animated_cube/AnimatedCube_MetallicRoughness.png | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
 | io/gltf_animated_cube/AnimatedCube.bin                   | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
