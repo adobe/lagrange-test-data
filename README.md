@@ -101,10 +101,12 @@ table below lists the origin of models in this repository and their licenses.
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
+| subdivision/cube.obj                                     | [McGuire Computer Graphics Archive][mcguire]       | [CC0 1.0][cc0]                          |
 <!-- generated-table-ends -->
 
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 [keenan]: https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/
+[mcguire]: https://casual-effects.com/data/index.html
 [MIT]: https://opensource.org/licenses/MIT
 [polygon-laplacian]: https://github.com/mbotsch/polygon-laplacian
 [standford]: http://graphics.stanford.edu/data/3Dscanrep
