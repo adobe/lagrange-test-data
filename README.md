@@ -23,6 +23,8 @@ table below lists the origin of models in this repository and their licenses.
 | core/blub/blub.mtl                                       | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/blub/blub.obj                                       | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
 | core/bunny_simple.obj                                    | [The Stanford 3D Scanning Repository][standford]   | ???                                     |
+| core/chain_edges_data1.txt                               | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/chain_edges_data2.txt                               | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/cube_soup.obj                                       | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/disk.obj                                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/dragon.obj                                          | [The Stanford 3D Scanning Repository][standford]   | ???                                     |
@@ -80,28 +82,31 @@ table below lists the origin of models in this repository and their licenses.
 | image_io/example.exr                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.jpg                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.png                                     | Homemade                                           | [CC0 1.0][cc0]                          |
-| io/gltf_animated_cube/AnimatedCube_BaseColor.png         | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
-| io/gltf_animated_cube/AnimatedCube_MetallicRoughness.png | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
-| io/gltf_animated_cube/AnimatedCube.bin                   | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
-| io/gltf_animated_cube/AnimatedCube.gltf                  | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
 | io/avocado/Avocado_baseColor.png                         | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
 | io/avocado/Avocado_normal.png                            | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
 | io/avocado/Avocado_roughnessMetallic.png                 | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
 | io/avocado/Avocado.bin                                   | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
-| io/avocado/Avocado.gltf                                  | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
-| io/avocado/avocado.obj                                   | Derived                                            | [CC0 1.0][cc0]                          |
-| io/avocado/avocado.mtl                                   | Derived                                            | [CC0 1.0][cc0]                          |
 | io/avocado/avocado.fbx                                   | Derived                                            | [CC0 1.0][cc0]                          |
+| io/avocado/Avocado.gltf                                  | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
+| io/avocado/avocado.mtl                                   | Derived                                            | [CC0 1.0][cc0]                          |
+| io/avocado/avocado.obj                                   | Derived                                            | [CC0 1.0][cc0]                          |
+| io/gltf_animated_cube/AnimatedCube_BaseColor.png         | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
+| io/gltf_animated_cube/AnimatedCube_MetallicRoughness.png | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
+| io/gltf_animated_cube/AnimatedCube.bin                   | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
+| io/gltf_animated_cube/AnimatedCube.gltf                  | [glTF-Sample-Models][gltf-cube]                    | [unclear][gltf-cube][^gltf-license]     |
 | io/gltf_engine/2CylinderEngine.gltf                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/gltf_engine/2CylinderEngine0.bin                      | [glTF-Sample-Models][gltf-cylinder]                | [unclear][gltf-cylinder][^gltf-license] |
 | io/MultiUVTest.glb                                       | [glTF-Sample-Models][gltf-multiuv]                 | [CC BY 4.0][gltf-multiuv]               |
 | io/three_cubes_instances.gltf                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/two_cameras.gltf                                      | Homemade                                           | [CC0 1.0][cc0]                          |
+| subdivision/cube_esharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
+| subdivision/cube_fholes.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
+| subdivision/cube_vsharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
+| subdivision/cube.obj                                     | [McGuire Computer Graphics Archive][mcguire]       | [CC0 1.0][cc0]                          |
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
-| subdivision/cube.obj                                     | [McGuire Computer Graphics Archive][mcguire]       | [CC0 1.0][cc0]                          |
 <!-- generated-table-ends -->
 
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
