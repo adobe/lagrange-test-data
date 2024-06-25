@@ -75,6 +75,10 @@ table below lists the origin of models in this repository and their licenses.
 | core/tilings/square.obj                                  | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
 | core/tilings/tiling.cpp                                  | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
 | core/tilings/triangle.obj                                | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
+| core/topology/moebius-160-10.ply                         | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/topology/nonmanifold_edge.obj                       | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/topology/nonmanifold_vertex.obj                     | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/topology/nonoriented_edge.obj                       | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/torus3_in.obj                                       | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/torus3_out.obj                                      | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/blobs.png                                       | Homemade                                           | [CC0 1.0][cc0]                          |
