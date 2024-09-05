@@ -104,6 +104,7 @@ table below lists the origin of models in this repository and their licenses.
 | io/three_cubes_instances.gltf                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/two_cameras.gltf                                      | Homemade                                           | [CC0 1.0][cc0]                          |
+| poisson/sphere.striped.ply                               | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/cube_esharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
 | subdivision/cube_fholes.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
 | subdivision/cube_vsharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
