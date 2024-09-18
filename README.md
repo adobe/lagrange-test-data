@@ -16,6 +16,7 @@ table below lists the origin of models in this repository and their licenses.
 | core/ball.obj                                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/blub_open_filled.obj                                | Derived                                            | [CC0 1.0][cc0]                          |
 | core/blub_open.obj                                       | Derived                                            | [CC0 1.0][cc0]                          |
+| core/blub_thickened.obj                                  | Derived                                            | [CC0 1.0][cc0]                          |
 | core/blub/blub_diffuse.png                               | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
 | core/blub/blub_height.exr                                | Derived                                            | [CC0 1.0][cc0]                          |
 | core/blub/blub_quadrangulated.obj                        | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
@@ -105,25 +106,29 @@ table below lists the origin of models in this repository and their licenses.
 | io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/two_cameras.gltf                                      | Homemade                                           | [CC0 1.0][cc0]                          |
 | poisson/sphere.striped.ply                               | Homemade                                           | [CC0 1.0][cc0]                          |
+| subdivision/catmark_fvar_bound1.obj                      | [OpenSubdiv's Repository][opensubdiv]              | [Apache 2][apache2]                     |
 | subdivision/cube_esharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
 | subdivision/cube_fholes.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
 | subdivision/cube_vsharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
 | subdivision/cube.obj                                     | [McGuire Computer Graphics Archive][mcguire]       | [CC0 1.0][cc0]                          |
+| subdivision/grid_3x3.obj                                 | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
 <!-- generated-table-ends -->
 
+[apache2]: https://www.apache.org/licenses/LICENSE-2.0
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+[gltf-avocado]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Avocado
+[gltf-cube]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/AnimatedCube
+[gltf-cylinder]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/2CylinderEngine
+[gltf-models]: https://github.com/KhronosGroup/glTF-Sample-Models
+[gltf-multiuv]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/MultiUVTest
 [keenan]: https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/
 [mcguire]: https://casual-effects.com/data/index.html
 [MIT]: https://opensource.org/licenses/MIT
+[opensubdiv]: https://github.com/PixarAnimationStudios/OpenSubdiv
 [polygon-laplacian]: https://github.com/mbotsch/polygon-laplacian
 [standford]: http://graphics.stanford.edu/data/3Dscanrep
-[gltf-models]: https://github.com/KhronosGroup/glTF-Sample-Models
-[gltf-cube]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/AnimatedCube
-[gltf-cylinder]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/2CylinderEngine
-[gltf-avocado]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Avocado
-[gltf-multiuv]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/MultiUVTest
 
 [^gltf-license]: Many glTF models currently have unclear license information. A future update to the glTF-Sample-Models repository will address that. Please see [KhronosGroup/glTF-Sample-Models#227](https://github.com/KhronosGroup/glTF-Sample-Models/issues/227) for more information.
