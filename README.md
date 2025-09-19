@@ -48,6 +48,7 @@ table below lists the origin of models in this repository and their licenses.
 | core/poly/tetris.obj                                     | [Polygon Laplacian Made Simple][polygon-laplacian] | [MIT]                                   |
 | core/prout.obj                                           | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/rounded_cube.obj                                    | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/simple/cube_with_uv.obj                             | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/cube.obj                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/cubes-29.obj                                 | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/cubes-3.obj                                  | Homemade                                           | [CC0 1.0][cc0]                          |
@@ -60,6 +61,9 @@ table below lists the origin of models in this repository and their licenses.
 | core/simple/rcube-half-tri.obj                           | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/rounded-cylinder.obj                         | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/sphere-ico.obj                               | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/spot/spot_quadrangulated.obj                        | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
+| core/spot/spot_texture.png                               | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
+| core/spot/spot_triangulated.obj                          | [Keenan's 3D Model Repository][keenan]             | [CC0 1.0][cc0]                          |
 | core/square.obj                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/squareZ.obj                                         | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/stanford-bunny.obj                                  | [The Stanford 3D Scanning Repository][standford]   | ???                                     |
@@ -87,6 +91,7 @@ table below lists the origin of models in this repository and their licenses.
 | image_io/example.exr                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.jpg                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.png                                     | Homemade                                           | [CC0 1.0][cc0]                          |
+| io/61765.stl                                             | [Thingi10K][thing61765]                            | [CC BY 4.0][cc-by-4]                    |
 | io/avocado/Avocado_baseColor.png                         | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
 | io/avocado/Avocado_normal.png                            | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
 | io/avocado/Avocado_roughnessMetallic.png                 | [glTF-Sample-Models][gltf-avocado]                 | [CC0 1.0][cc0]                          |
@@ -115,9 +120,13 @@ table below lists the origin of models in this repository and their licenses.
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
+| texproc/blub_sharp.exr                                   | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/blub_smooth.exr                                  | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/blub_stitched.exr                                | Derived                                            | [CC0 1.0][cc0]                          |
 <!-- generated-table-ends -->
 
 [apache2]: https://www.apache.org/licenses/LICENSE-2.0
+[cc-by-4]: https://creativecommons.org/licenses/by/4.0/
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 [gltf-avocado]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Avocado
 [gltf-cube]: https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/AnimatedCube
@@ -130,5 +139,6 @@ table below lists the origin of models in this repository and their licenses.
 [opensubdiv]: https://github.com/PixarAnimationStudios/OpenSubdiv
 [polygon-laplacian]: https://github.com/mbotsch/polygon-laplacian
 [standford]: http://graphics.stanford.edu/data/3Dscanrep
+[thing61765]: https://ten-thousand-models.appspot.com/detail.html?file_id=61765
 
 [^gltf-license]: Many glTF models currently have unclear license information. A future update to the glTF-Sample-Models repository will address that. Please see [KhronosGroup/glTF-Sample-Models#227](https://github.com/KhronosGroup/glTF-Sample-Models/issues/227) for more information.
