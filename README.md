@@ -30,6 +30,7 @@ table below lists the origin of models in this repository and their licenses.
 | core/disk.obj                                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/dragon.obj                                          | [The Stanford 3D Scanning Repository][standford]   | ???                                     |
 | core/drop_tri.obj                                        | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/envelope.obj                                        | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/fandisk.obj                                         | [Hugues Hoppe](http://hhoppe.com/pm_data.zip)      | ???                                     |
 | core/grid_holes.obj                                      | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/hemisphere.edges.dmat                               | Homemade                                           | [CC0 1.0][cc0]                          |
@@ -48,6 +49,7 @@ table below lists the origin of models in this repository and their licenses.
 | core/poly/tetris.obj                                     | [Polygon Laplacian Made Simple][polygon-laplacian] | [MIT]                                   |
 | core/prout.obj                                           | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/rounded_cube.obj                                    | Homemade                                           | [CC0 1.0][cc0]                          |
+| core/simple/cube_flipped.fbx                             | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/cube_with_uv.obj                             | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/cube.obj                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | core/simple/cubes-29.obj                                 | Homemade                                           | [CC0 1.0][cc0]                          |
@@ -120,9 +122,21 @@ table below lists the origin of models in this repository and their licenses.
 | subdivision/sphere_midpoint.ply                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere_sqrt.ply                              | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/sphere.ply                                   | Homemade                                           | [CC0 1.0][cc0]                          |
-| texproc/blub_sharp.exr                                   | Derived                                            | [CC0 1.0][cc0]                          |
-| texproc/blub_smooth.exr                                  | Derived                                            | [CC0 1.0][cc0]                          |
-| texproc/blub_stitched.exr                                | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/blub_diffuse_64x64.png                           | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/blub_expanded_50.exr                             | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx_x64/blub_sharp.exr                           | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx_x64/blub_smooth.exr                          | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx_x64/blub_stitched_rnd.exr                    | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx_x64/blub_stitched.exr                        | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx/blub_sharp.exr                               | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx/blub_smooth.exr                              | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx/blub_stitched_rnd.exr                        | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/osx/blub_stitched.exr                            | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/uv_identity.exr                                  | Homemade                                           | [CC0 1.0][cc0]                          |
+| texproc/winlin/blub_sharp.exr                            | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/winlin/blub_smooth.exr                           | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/winlin/blub_stitched_rnd.exr                     | Derived                                            | [CC0 1.0][cc0]                          |
+| texproc/winlin/blub_stitched.exr                         | Derived                                            | [CC0 1.0][cc0]                          |
 <!-- generated-table-ends -->
 
 [apache2]: https://www.apache.org/licenses/LICENSE-2.0
