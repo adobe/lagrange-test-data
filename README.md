@@ -112,6 +112,7 @@ table below lists the origin of models in this repository and their licenses.
 | io/three_cubes_instances.gltf                            | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/triangle.glb                                          | Homemade                                           | [CC0 1.0][cc0]                          |
 | io/two_cameras.gltf                                      | Homemade                                           | [CC0 1.0][cc0]                          |
+| io/Walking.fbx                                           | [Huge / Objaverse][huge-walking]                   | [MIT]                                   |
 | poisson/sphere.striped.ply                               | Homemade                                           | [CC0 1.0][cc0]                          |
 | subdivision/catmark_fvar_bound1.obj                      | [OpenSubdiv's Repository][opensubdiv]              | [Apache 2][apache2]                     |
 | subdivision/cube_esharp.obj                              | Derived                                            | [CC0 1.0][cc0]                          |
@@ -154,5 +155,6 @@ table below lists the origin of models in this repository and their licenses.
 [polygon-laplacian]: https://github.com/mbotsch/polygon-laplacian
 [standford]: http://graphics.stanford.edu/data/3Dscanrep
 [thing61765]: https://ten-thousand-models.appspot.com/detail.html?file_id=61765
+[huge-walking]:https://github.com/xrhrepus/HUGE_Migrate/blob/main/HUGE/Assets/Models/Movement/Walking.fbx
 
 [^gltf-license]: Many glTF models currently have unclear license information. A future update to the glTF-Sample-Models repository will address that. Please see [KhronosGroup/glTF-Sample-Models#227](https://github.com/KhronosGroup/glTF-Sample-Models/issues/227) for more information.
