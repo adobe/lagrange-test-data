@@ -90,6 +90,7 @@ table below lists the origin of models in this repository and their licenses.
 | core/torus3_out.obj                                      | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/blobs.png                                       | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/checkerboard4.png                               | Homemade                                           | [CC0 1.0][cc0]                          |
+| image_io/disparity16.png                                 | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.exr                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.jpg                                     | Homemade                                           | [CC0 1.0][cc0]                          |
 | image_io/example.png                                     | Homemade                                           | [CC0 1.0][cc0]                          |
